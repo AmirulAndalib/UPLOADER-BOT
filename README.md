@@ -1,6 +1,6 @@
 ## Uploader X  Bot
 ---
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Uploader+X+Bot+;Telegram+RoBot+to+Upload+Links)](https://github.com/SpEcHlDe/UPLOADER-BOT)
 Telegram RoBot to Upload Links.
 
 **Features**:
@@ -23,7 +23,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?)
 
 
 
