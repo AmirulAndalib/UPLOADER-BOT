@@ -191,7 +191,7 @@ async def youtube_dl_call_back(bot, update):
                 is_w_f,
                 Config.DEF_WATER_MARK_FILE,
                 300,
-                9
+                15
             )
             logger.info(images)
             await bot.edit_message_text(
